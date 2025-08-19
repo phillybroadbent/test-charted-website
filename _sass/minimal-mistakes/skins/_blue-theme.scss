@@ -1,0 +1,35 @@
+// Base colors
+$background-color: #0e5559 !default;   // deep teal background
+$text-color: #f8f9fa !default;         // off-white text
+$muted-text-color: #a5c5c7 !default;   // muted aqua-grey
+
+// Links
+$link-color: #41bfc7 !default;         // aqua blue
+$link-color-hover: lighten($link-color, 8%) !default;
+
+// Brand colors
+$primary-color: #41bfc7 !default;      // aqua (primary highlight)
+$secondary-color: #007b83 !default;    // teal
+$accent-color: #e63946 !default;       // compass red (strong accent)
+
+// Borders and dividers
+$border-color: #2a6a6e !default;       // soft teal-grey
+$footer-background-color: #07373a !default;
+
+// Buttons
+$btn-primary-color: #ffffff !default;
+$btn-primary-background: $primary-color !default;
+$btn-primary-border: $primary-color !default;
+$btn-primary-hover-background: lighten($primary-color, 8%) !default;
+$btn-primary-hover-border: lighten($primary-color, 6%) !default;
+
+// Code blocks
+$code-background-color: #07373a !default;
+$code-border-color: #2a6a6e !default;
+
+// Highlighting
+$highlight-color: $accent-color !default;
+
+// Hero / intro sections
+$hero-background-color: #07373a !default;
+$hero-text-color: #ffffff !default;
