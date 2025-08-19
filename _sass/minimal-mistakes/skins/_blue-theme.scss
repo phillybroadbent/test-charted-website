@@ -33,3 +33,23 @@ $highlight-color: $accent-color !default;
 // Hero / intro sections
 $hero-background-color: #07373a !default;
 $hero-text-color: #ffffff !default;
+
+// ===============================
+// Dark header box (title + tagline + buttons)
+// ===============================
+.title-box {
+  background: rgba(0,0,0,0.8);       // dark transparent background
+  padding: 1.5rem 2rem;
+  border-radius: 0.5rem;
+  color: $hero-text-color;  // uses your theme's hero text color
+  max-width: 80%;
+  display: inline-block;
+
+  h1, p, a.btn {
+    color: $hero-text-color; // ensures all text/buttons are white
+  }
+
+  a.btn {
+    border-color: $hero-text-color;
+  }
+}

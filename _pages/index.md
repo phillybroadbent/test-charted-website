@@ -1,21 +1,21 @@
 ---
 layout: splash
 classes: 
-title: "CHARTED"
-tagline: "The Connecting Hub for Advancing the Research Technical Professionals' Talent Enabling Digital Research Infrastructure"
+title: "<div class='title-box'>CHARTED: The Connecting Hub for Advancing the Research Technical Professionals' Talent Enabling Digital Research Infrastructure</div>"
+tagline: ""
 description: "The Connecting Hub for Advancing the Research Technical Professionals' Talent Enabling Digital Research Infrastructure" 
 permalink: /
 
 header:
   overlay_color: "#00274D" 
-  overlay_filter: "0.7"
+  overlay_filter: "0.0"
   overlay_image: /assets/images/bg-map.jpg
   caption: "<small>Photo credit: [Etienne Girardet](https://unsplash.com/@etiennegirardet?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash) on [Unsplash](https://unsplash.com/photos/a-close-up-of-a-map-with-many-lines-0eFonneh6cI?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash)</small>"
-  actions:
-    - label: "About the project"
-      url: "/about"
-    - label: "Events"
-      url: "/events"
+#   actions:
+#     - label: "About the project"
+#       url: "/about"
+#     - label: "Events"
+#       url: "/events"
 intro: 
   -
     excerpt: |
@@ -57,6 +57,6 @@ feature_row:
     btn_class: "btn--light-outline btn--small"
 ---
 
-{% include feature_row id="intro" type="center" %}
+{% include feature_row id="intro" type="wide"%}
 
 {% include feature_row %}

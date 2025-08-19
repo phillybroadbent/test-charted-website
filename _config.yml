@@ -14,7 +14,7 @@ github_username: username
 
 # Theme + skin
 remote_theme: mmistakes/minimal-mistakes
-minimal_mistakes_skin: blue-theme   # or universe-hpc / universe-hpc-dark
+minimal_mistakes_skin: blue-theme  
 
 show_last_updated_at: false
 
