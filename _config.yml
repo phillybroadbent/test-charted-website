@@ -16,6 +16,8 @@ github_username: username
 remote_theme: mmistakes/minimal-mistakes
 minimal_mistakes_skin: blue-theme   # or universe-hpc / universe-hpc-dark
 
+show_last_updated_at: false
+
 # Search
 search: true
 
@@ -25,6 +27,8 @@ permalink: /:title/
 paginate: 5
 paginate_path: /page:num/
 timezone: # e.g., Europe/London
+future: true # Include future-dated posts
+
 
 # Include folders
 include:
@@ -79,11 +83,11 @@ defaults:
       type: posts
     values:
       layout: single
-      author_profile: true
-      read_time: true
-      comments: true
-      share: true
-      related: true
+      author_profile: false
+      read_time: false
+      comments: false
+      share: false
+      related: false
 
   # Pages
   - scope:
@@ -91,10 +95,7 @@ defaults:
       type: pages
     values:
       layout: single
-      author_profile: true
-
-# Include future-dated posts
-future: true
+      author_profile: false
 
 # ==================================================
 # Archives

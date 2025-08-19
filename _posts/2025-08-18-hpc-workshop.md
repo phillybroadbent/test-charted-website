@@ -1,11 +1,9 @@
 ---
-title: "Test HPC Workshop"
-date: 2025-04-18T15:34:30-04:00
+title: "Test Workshop"
 categories:
-  - blog
-tags:
-  - Jekyll
-  - update
+  - events
+layout: single       # shows the individual event page
+show_last_updated_at: false
 ---
 
 Join us for a **3-day hands-on workshop** on High Performance Computing (HPC).  
