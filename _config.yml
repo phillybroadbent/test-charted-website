@@ -4,7 +4,8 @@
 # ==================================================
 
 # Site settings
-title: CHARTED
+title: 
+logo: /assets/images/charted-logo.png
 email:
 description: >-
   Write an awesome description for your new site here.

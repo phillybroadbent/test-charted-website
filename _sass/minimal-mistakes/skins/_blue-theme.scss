@@ -53,3 +53,16 @@ $hero-text-color: #ffffff !default;
     border-color: $hero-text-color;
   }
 }
+
+
+// ===============================
+// Masthead styles
+// ===============================
+.masthead .site-title {
+  font-size: 0;   /* hide text */
+}
+
+.masthead .site-title img {
+  max-height: 50px;   /* adjust logo size */
+  width: auto;
+}
