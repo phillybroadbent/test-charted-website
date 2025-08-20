@@ -1,7 +1,10 @@
 ---
 layout: splash
 classes: 
-title: "<div class='title-box'>CHARTED: The Connecting Hub for Advancing the Research Technical Professionals' Talent Enabling Digital Research Infrastructure</div>"
+title: "<div class='title-box'>
+          CHARTED <br><br>
+          <small>The Connecting Hub for Advancing RTPs Talent Enabling DRI</small>
+        </div>"
 tagline: ""
 description: "The Connecting Hub for Advancing Research Technical Professionals' Talent Enabling Digital Research Infrastructure" 
 permalink: /
