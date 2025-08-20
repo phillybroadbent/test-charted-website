@@ -3,7 +3,7 @@ layout: splash
 classes: 
 title: "<div class='title-box'>CHARTED: The Connecting Hub for Advancing the Research Technical Professionals' Talent Enabling Digital Research Infrastructure</div>"
 tagline: ""
-description: "The Connecting Hub for Advancing the Research Technical Professionals' Talent Enabling Digital Research Infrastructure" 
+description: "The Connecting Hub for Advancing Research Technical Professionals' Talent Enabling Digital Research Infrastructure" 
 permalink: /
 
 header:
@@ -31,9 +31,9 @@ intro:
 
 
 feature_row:
-  - image_path: /assets/images/fp-hands.jpg
-    image_caption: "<small><small>Photo by [Clay Banks](https://unsplash.com/@claybanks?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/photos/LjqARJaJotc?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)</small></small>"
-    alt: "The word team"
+  - image_path: /assets/images/fp-map.jpg
+    image_caption: "<small><small>Photo credit: [Etienne Girardet](https://unsplash.com/@etiennegirardet?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash) on [Unsplash](https://unsplash.com/photos/a-close-up-of-a-map-with-many-lines-0eFonneh6cI?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash)</small></small>"
+    alt: "A tube map"
     title: "About the Project"
     excerpt: "An introduction to CHARTED"
     url: "/about"
@@ -47,9 +47,9 @@ feature_row:
     url: "/funds"
     btn_label: "Description of Funds"
     btn_class: "btn--light-outline btn--small"
-  - image_path: /assets/images/fp-tracks.jpg
-    image_caption: "<small><small>Photo by [Louis Verplancken](https://unsplash.com/@louisverplancken?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/photos/984OGWTyrhw?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)</small></small>"
-    alt: "Train tracks"
+  - image_path: /assets/images/fp-conference.jpg
+    image_caption: "<small><small>Photo by [Headway](https://unsplash.com/@headwayio?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash) on [Unsplash](https://unsplash.com/photos/crowd-of-people-sitting-on-chairs-inside-room-F2KRf_QfCqw?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash)</small></small>"
+    alt: "conference"
     title: "RSECon25"
     excerpt: "Find out what we're up to at RSECon25"
     url: "/RSECon25"
