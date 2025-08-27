@@ -4,7 +4,7 @@ permalink: /funds/
 ---
 ## CHARTED - Flexible Funding
 
-This will be used to support the goals of CHARTED with contributions from the community, aiming to reach underrepresented, overlooked and marginalised groups.  It is split into four streams.
+This will be used to support the community-driven activities and initiatives that are aligned with CHARTED goals.  It is split into four streams focused on making the skills and training ecosystem easier to navigate and supporting the community growth, across different dRTP roles, including those that are often underrepresented.  
 
 ### Fund 1:  FAIR Ecosystem
 **Purpose:**  To support activities that make the training ecosystem more findable, accessible, interoperable and reusable.  These might include defining skills, expanding skill trees, linking skills to training, adapting existing content and identifying missing content and professional development challenges.
@@ -30,7 +30,7 @@ This will be used to support the goals of CHARTED with contributions from the co
 ### Fund 4:  Professional Development
 **Purpose:**   To support professional development of individuals who may be early in their career, returning after a break or re-orienting themselves in their careers.  Activities may include attending conferences or events, fees for training courses or certificates and visits to other institutions for knowledge exchange.
 
-**Fund:**   £150k with up to around £3k per individual
+**Fund:**   £150k with up to around £5k per individual
 
 **Timeframe:**   Call expected to open around October 2025, to complete by the end of 2028.
 

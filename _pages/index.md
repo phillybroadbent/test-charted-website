@@ -2,11 +2,10 @@
 layout: splash
 classes: 
 title: "<div class='title-box'>
-          CHARTED <br><br>
-          <small>The Connecting Hub for Advancing RTPs Talent Enabling DRI</small>
+          dRTP Skills
         </div>"
 tagline: ""
-description: "The Connecting Hub for Advancing Research Technical Professionals' Talent Enabling Digital Research Infrastructure" 
+description: "" 
 permalink: /
 
 header:
@@ -23,13 +22,9 @@ intro:
   -
     excerpt: |
         <div>
-            <p>Research Technical Professionals (RTPs) are an integral part of the modern process of scientific discovery.</p>  
+            <p>Research Technical Professionals (RTPs) are an integral part of the modern process of scientific discovery. The goal of this website is to facilitate the process of discovery and development of digital research technical skills. </p>  
 
-            <p>As computational research grows and assimilates emerging technologies, the need for skilled RTPs in diversifying areas is increasingly urgent but there are few established routes into RTP careers.</p>  
-            
-            <p>The aim of CHARTED is to connect training opportunities, skills, roles and people and to develop tools and frameworks to make the ecosystem for professional development easier to navigate.  It will create a HUB to support skills development, by engaging with employers to capture skills and describe roles, as well as with RTP communities and other initiatives.  This will make the process of discovery and development easier eg by navigating to self-directed learning pathways. </p>
-            
-            <p>CHARTED will also provide a platform for trainers to connect efforts for making HPC training content more FAIR (findable, accessible, interoperable and reusable), in the UK and internationally. There will be funding available to support the aims of the project (see Flexible Funding).</p>
+            <p>This website will initially focus on the work done within two projects: DRIFT and CHARTED, and later expand to include an overview of the dRTP ecosystem.</p>  
         </div>
 
 
@@ -38,7 +33,7 @@ feature_row:
     image_caption: "<small><small>Photo credit: [Etienne Girardet](https://unsplash.com/@etiennegirardet?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash) on [Unsplash](https://unsplash.com/photos/a-close-up-of-a-map-with-many-lines-0eFonneh6cI?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash)</small></small>"
     alt: "A tube map"
     title: "About the Project"
-    excerpt: "An introduction to CHARTED"
+    excerpt: "An introduction to CHARTED and DRIFT"
     url: "/about"
     btn_label: "About"
     btn_class: "btn--light-outline btn--small"
