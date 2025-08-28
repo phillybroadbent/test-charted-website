@@ -1,7 +1,7 @@
 main:
   - title: "About"
     url: /about/
-  - title: "Description of Funds"
+  - title: "Funding Opportunities"
     url: /funds/
   - title: "Upcoming Events"
     url: /events/

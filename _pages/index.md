@@ -32,10 +32,10 @@ feature_row:
   - image_path: /assets/images/fp-map.jpg
     image_caption: "<small><small>Photo credit: [Etienne Girardet](https://unsplash.com/@etiennegirardet?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash) on [Unsplash](https://unsplash.com/photos/a-close-up-of-a-map-with-many-lines-0eFonneh6cI?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash)</small></small>"
     alt: "A tube map"
-    title: "About the Project"
+    title: "About the Projects"
     excerpt: "An introduction to CHARTED and DRIFT"
     url: "/about"
-    btn_label: "About"
+    btn_label: "About the Projects"
     btn_class: "btn--light-outline btn--small"
   - image_path: assets/images/fp-writing.jpg
     image_caption: "<small><small>Photo by [Alejandro Escamilla](https://unsplash.com/@alejandroescamilla?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/photos/y83Je1OC6Wc?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)</small></small>"
@@ -56,5 +56,6 @@ feature_row:
 ---
 
 {% include feature_row id="intro" type="wide"%}
+
 
 {% include feature_row %}

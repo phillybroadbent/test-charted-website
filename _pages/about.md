@@ -2,17 +2,20 @@
 permalink: /about/
 title: "About"
 ---
+<br/>
+<br/>
 
-![](../../assets/images/charted-and-drift-logo-small.png)
-
-## CHARTED
+![](/assets/images/CHARTED_White.png)
 
 **CHARTED – The Connecting Hub for Advancing the RPT Talent Enabling DRI**
 
 As computational research grows and assimilates emerging technologies, the need for skilled RTPs in diversifying areas is increasingly urgent but there are few established routes into RTP careers.  The aim of CHARTED is to connect training opportunities, skills, roles and people and to develop tools and frameworks to make the ecosystem for professional development easier to navigate.  It will create a HUB to support skills development, by engaging with employers to capture skills and describe roles, as well as with RTP communities and other initiatives.  This will make the process of discovery and development easier e.g., by navigating to self-directed learning pathways.  It will also provide a platform for trainers to connect efforts for making HPC training content more FAIR (findable, accessible, interoperable and reusable), in the UK and internationally. There will be funding available to support the aims of the project (see Flexible Funding).
 
+<br/>
+<br/>
 
-## DRIFT
+
+![](/assets/images/DRIFT_White.png)
 
 Digital Research Infrastructure (DRI) is now ubiquitous in research. It has revolutionised the way that we conduct research, pervading all aspects of the research lifecycle. From the use of large-scale computing for machine-learning and big data, to the management of experiments for record keeping and reproducibility, research is powered by the software and hardware that have become vital for modern researchers. This requires new skills and forms of research collaboration, as research supported by DRI aims at larger scales and interdisciplinary collaboration.
 

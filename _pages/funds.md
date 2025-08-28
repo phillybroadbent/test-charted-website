@@ -1,5 +1,5 @@
 ---
-title: "Description of Funds"
+title: "Funding Opportunities"
 permalink: /funds/
 ---
 ## CHARTED - Flexible Funding
