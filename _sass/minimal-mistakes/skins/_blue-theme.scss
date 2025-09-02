@@ -37,13 +37,23 @@ $hero-text-color: #ffffff !default;
 // ===============================
 // Dark header box (title + tagline + buttons)
 // ===============================
+
+.page__hero--overlay .wrapper {
+  display: flex;
+  justify-content: flex-end;   /* pushes content to the right */
+  text-align: right;           /* aligns text inside */
+}
+
 .title-box {
   background: rgba(0,0,0,0.8);       // dark transparent background
   padding: 1.5rem 2rem;
   border-radius: 0.5rem;
   color: $hero-text-color;  // uses your theme's hero text color
-  max-width: 65%;
+  max-width: none;
   display: inline-block;
+
+  margin-left: auto;                 // lets flex/grid push it right
+  text-align: right;                 // align text inside the box right
 
   h1, p, a.btn {
     color: $hero-text-color; // ensures all text/buttons are white
@@ -54,6 +64,16 @@ $hero-text-color: #ffffff !default;
   }
 }
 
+.feature__item .archive__item-teaser {
+  height: 200px;              /* pick a height that looks good */
+  overflow: hidden;            /* hides the excess */
+}
+
+.feature__item .archive__item-teaser img {
+  width: 100%;                 /* scale to fill the box */
+  height: 100%;                /* enforce consistent height */
+  object-fit: cover;           /* crop while keeping aspect ratio */
+}
 
 // ===============================
 // Masthead styles

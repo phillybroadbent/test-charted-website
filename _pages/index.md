@@ -11,13 +11,9 @@ permalink: /
 header:
   overlay_color: "#00274D" 
   overlay_filter: "0.0"
-  overlay_image: /assets/images/bg-map.jpg
-  caption: "<small>Photo credit: [Etienne Girardet](https://unsplash.com/@etiennegirardet?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash) on [Unsplash](https://unsplash.com/photos/a-close-up-of-a-map-with-many-lines-0eFonneh6cI?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash)</small>"
-#   actions:
-#     - label: "About the project"
-#       url: "/about"
-#     - label: "Events"
-#       url: "/events"
+  overlay_image: /assets/images/bg-signpost-cropped.jpg
+  caption: "<small>Photo by Jan Huber on Unsplash</small>"
+
 intro: 
   -
     excerpt: |
@@ -29,8 +25,8 @@ intro:
 
 
 feature_row:
-  - image_path: /assets/images/fp-map.jpg
-    image_caption: "<small><small>Photo credit: [Etienne Girardet](https://unsplash.com/@etiennegirardet?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash) on [Unsplash](https://unsplash.com/photos/a-close-up-of-a-map-with-many-lines-0eFonneh6cI?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash)</small></small>"
+  - image_path: /assets/images/bg-signpost.jpg
+    image_caption: "<small><small>Photo by Jan Huber on Unsplash</small></small>"
     alt: "A tube map"
     title: "About the Projects"
     excerpt: "An introduction to CHARTED and DRIFT"
