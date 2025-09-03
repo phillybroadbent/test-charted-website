@@ -37,7 +37,6 @@ $hero-text-color: #ffffff !default;
 // ===============================
 // Dark header box (title + tagline + buttons)
 // ===============================
-
 .page__hero--overlay .wrapper {
   display: flex;
   justify-content: flex-end;   /* pushes content to the right */
@@ -49,11 +48,11 @@ $hero-text-color: #ffffff !default;
   padding: 1.5rem 2rem;
   border-radius: 0.5rem;
   color: $hero-text-color;  // uses your theme's hero text color
-  max-width: none;
+  max-width: 60%;
   display: inline-block;
 
   margin-left: auto;                 // lets flex/grid push it right
-  text-align: right;                 // align text inside the box right
+  text-align: center;                 // align text inside the box right
 
   h1, p, a.btn {
     color: $hero-text-color; // ensures all text/buttons are white
